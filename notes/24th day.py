@@ -84,7 +84,7 @@ class c1:
         n1=self.a*other.a
         n2=self.b*other.b
         return n1,n2
-
+    
 
 obj1=c1(10,10)
 obj2=c1(15,16)
