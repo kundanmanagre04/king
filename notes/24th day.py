@@ -72,20 +72,21 @@
 #         return n1,n2
 
 
-# obj1=c1(10,10)
-# obj2=c1(15,16)
-# print(obj1.__mul__(obj2))
+# # obj1=c1(10,10)
+# # obj2=c1(15,16)
+# # print(obj1.__mul__(obj2))
 
-class c1:
-    def __init__(self,a,b):
-        self.a=a
-        self.b=b
-    def  __div__(self,other):
-        n1=self.a*other.a
-        n2=self.b*other.b
-        return n1,n2
+# class c1:
+#     def __init__(self,a,b):
+#         self.a=a
+#         self.b=b
+#     def  __div__(self,other):
+#         n1=self.a*other.a
+#         n2=self.b*other.b
+#         return n1,n2
     
 
-obj1=c1(10,10)
-obj2=c1(15,16)
-print(obj1.__div__(obj2))
+# obj1=c1(10,10)
+# obj2=c1(15,16)
+# print(obj1.__div__(obj2))
+=

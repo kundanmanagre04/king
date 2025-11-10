@@ -185,6 +185,10 @@
 #     if choice=='N' or choice=='n':
 #         break
 
-# obj.display_record()
-
-
+# # obj.display_record()  
+#  def s(*a);
+#       b=0
+#       for i in a;
+#       b+=i
+#    return b
+# print(s(3,2,3,4,2
