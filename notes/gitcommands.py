@@ -1,6 +1,5 @@
 '''git=this is a version control system it use to create check point to your code 
 github=it is a cloud based service that store my code'''
-'''commands '''
 # 1) git init (connect this folder to git ) if you are not in current directory and cd directory name)
 # 2) git add . (all change will add )
 # 3) git commit -m "message here " ("bind all data to push ")
@@ -21,4 +20,6 @@ github=it is a cloud based service that store my code'''
 # 19) git.switch nameofbranch ("change karega branch ko lekin sara data upload ho na chaye")
 # 20) git stash ("this is to sove change in temporary local area and then you can change a branch ")
 '''git merge is same line aa jayegi or baki esitis aa jayegi agar same line me conflict aa ta hai to'''
-# 21) git merge branch name ("this is to merge two branches")
+# 21) git merge branch name ("this is to merge two branches if any conflict will occure then manually resolve")
+# 22) git config merge.ff false
+# 23) git config --global merge.ff false
