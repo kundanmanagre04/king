@@ -21,4 +21,4 @@ github=it is a cloud based service that store my code'''
 # 19) git.switch nameofbranch ("change karega branch ko lekin sara data upload ho na chaye")
 # 20) git stash ("this is to sove change in temporary local area and then you can change a branch ")
 '''git merge is same line aa jayegi or baki esitis aa jayegi agar same line me conflict aa ta hai to'''
-# 21) 
+# 21) git merge branch name ("this is to merge two branches")
