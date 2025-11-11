@@ -1,5 +1,6 @@
 '''git=this is a version control system it use to create check point to your code 
 github=it is a cloud based service that store my code'''
+hello
 # 1) git init (connect this folder to git ) if you are not in current directory and cd directory name)
 good
 # 2) git add . (all change will add )
